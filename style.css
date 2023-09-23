@@ -7,8 +7,14 @@ body {
     color: white;
     font-family: sans-serif;
 }
+img {
+    max-width: 100%;
+}
 header {
     text-align: center;
+}
+header img {
+    width: 300px;
 }
 h1 {
     color: #00D1D6;
